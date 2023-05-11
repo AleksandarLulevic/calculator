@@ -80,3 +80,10 @@ body {
     font-size: 4rem;
     font-family: 'Digital7Italic', sans-serif;
 }
+
+.title {
+    grid-column: span 4;
+    font-size: 2rem !important;
+    color: white;
+    margin: 0 auto;
+}
